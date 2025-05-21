@@ -1,10 +1,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-<svg fill="#000000" width="800px" height="800px" viewBox="0 0 24 24" id="invoice-dollar-done-left" data-name="Flat Color" xmlns="http://www.w3.org/2000/svg" class="icon flat-color" stroke="#000000">
-<g id="SVGRepo_bgCarrier" stroke-width="0"/>
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-<g id="SVGRepo_iconCarrier">
-<path id="primary" d="M11,10A6,6,0,0,0,6,4.09V4A2,2,0,0,1,8,2H20a2,2,0,0,1,2,2V20a2,2,0,0,1-2,2H8a2,2,0,0,1-2-2V15.91A6,6,0,0,0,11,10Z" style="fill: #6B00E8;"/>
-<path id="secondary" d="M11,17a1,1,0,0,1,1-1h6a1,1,0,0,1,0,2H12A1,1,0,0,1,11,17Zm5.12-3a1,1,0,0,0,.76-.39l1.91-2.5a1,1,0,0,0-1.58-1.22L16,11.42l-.29-.33a1,1,0,1,0-1.5,1.32l1.09,1.25a1,1,0,0,0,.75.34ZM5.5,9h-1a.5.5,0,0,1,0-1H7A1,1,0,0,0,7,6H6A1,1,0,0,0,4,6v0a2.5,2.5,0,0,0,.5,5h1a.5.5,0,0,1,0,1H3a1,1,0,0,0,0,2H4a1,1,0,0,0,2,0V14A2.5,2.5,0,0,0,5.5,9Z" style="fill: #F1FF00;"/>
+<svg width="800px" height="800px" viewBox="0 0 24.00 24.00" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#000000">
+<g id="SVGRepo_bgCarrier" stroke-width="0">
+<rect x="0" y="0" width="24.00" height="24.00" rx="1.2" fill="#000000" strokewidth="0"/>
 </g>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#00000" stroke-width="4.8"> <path d="M18 8.5V8.35417C18 6.50171 16.4983 5 14.6458 5H9.5C7.567 5 6 6.567 6 8.5C6 10.433 7.567 12 9.5 12H14.5C16.433 12 18 13.567 18 15.5C18 17.433 16.433 19 14.5 19H9.42708C7.53436 19 6 17.4656 6 15.5729V15.5M12 3V21" stroke="#F1FF00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> </g>
+<g id="SVGRepo_iconCarrier"> <path d="M18 8.5V8.35417C18 6.50171 16.4983 5 14.6458 5H9.5C7.567 5 6 6.567 6 8.5C6 10.433 7.567 12 9.5 12H14.5C16.433 12 18 13.567 18 15.5C18 17.433 16.433 19 14.5 19H9.42708C7.53436 19 6 17.4656 6 15.5729V15.5M12 3V21" stroke="#F1FF00" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/> </g>
 </svg>
