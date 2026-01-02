@@ -1,0 +1,33 @@
+
+<!-- Modified: removed clock (ring + hands). Kept phone. Added Microsoft logo positioned like the reference. -->
+<svg fill="#66B2FF" height="800px" width="800px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-51.43 -51.43 445.70 445.70" xml:space="preserve" stroke="#66B2FF">
+
+  <g id="SVGRepo_bgCarrier" stroke-width="0">
+    <rect x="-51.43" y="-51.43" width="445.70" height="445.70" rx="89.14" fill="#000000" strokewidth="0"></rect>
+  </g>
+  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+  <g id="SVGRepo_iconCarrier">
+    <g>
+
+      <!-- Microsoft logo (4 tiles), placed near the phone like your reference -->
+      <!-- Size/padding tuned to sit inside the original viewBox padding. -->
+      <g id="ms_logo" fill="#66B2FF" stroke="none">
+        <!-- Tile size = 70, gap = 12 -->
+        <rect x="190" y="40" width="70" height="70"></rect>
+        <rect x="272" y="40" width="70" height="70"></rect>
+        <rect x="190" y="122" width="70" height="70"></rect>
+        <rect x="272" y="122" width="70" height="70"></rect>
+      </g>
+
+      <!-- Phone (original path kept) -->
+      <path d="M210.072,240.764c-4.131-4.131-9.78-6.2-15.714-5.604c-10.477,1.059-20.305,5.092-28.421,11.665
+        c-1.113,0.91-2.552,1.418-4.033,1.418c-1.45,0-2.867-0.493-3.99-1.387c-22.968-18.488-43.955-39.489-62.399-62.435
+        c-1.884-2.326-1.878-5.72,0.027-8.056c6.555-8.095,10.583-17.917,11.638-28.388c0.586-5.837-1.457-11.566-5.604-15.717
+        L64.045,94.733c-3.678-3.674-8.564-5.699-13.756-5.699c-0.626,0-1.269,0.031-1.908,0.093
+        c-12.29,1.205-23.893,6.7-32.663,15.472c-16.863,16.866-20.593,43.159-9.069,63.942
+        c29.353,53.547,99.945,130.727,167.293,167.231c7.827,4.27,16.702,6.523,25.678,6.523
+        c14.268,0,28.162-5.711,38.121-15.67c8.771-8.774,14.268-20.378,15.473-32.673c0.572-5.813-1.473-11.52-5.609-15.66
+        L210.072,240.764z"></path>
+    </g>
+  </g>
+</svg>
